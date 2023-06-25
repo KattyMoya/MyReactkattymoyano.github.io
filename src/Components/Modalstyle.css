@@ -1,0 +1,100 @@
+.btFb{
+    background-color:rgba(59.00000028312206, 87.00000241398811, 157.0000058412552, 1);
+	width:174px;
+	height:54px;
+	position:absolute;
+	left:205px;
+	top:1199px;
+	border-radius: 40px;
+	font-family:Indie Flower;
+	font-size: 26px;
+	color: white;
+}
+.btFb:hover{
+	box-shadow: 1px 3px #888888;
+}
+.ImagenFB{
+	width:300px;
+	height:302.8235168457031px;
+	position:absolute;
+	left:300px;
+	top:101px;
+	background-image:url(../images/image_27.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.btWts{
+	background-color:rgba(3.000000058673322, 193.00000369548798, 0, 1);
+	width:174px;
+	height:54px;
+	position:absolute;
+	left:509px;
+	top:1199px;
+	border-radius: 40px;
+	font-family:Indie Flower;
+	font-size: 26px;
+	color: white;
+}
+.btWts:hover{
+	box-shadow: 1px 3px #888888;
+}
+.ImagenWTS{
+	width:300px;
+	height:300px;
+	position:absolute;
+	left:300px;
+	top:101px;
+	background-image:url(../images/image_28.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.btIg{
+	background: linear-gradient(90deg, rgba(253,244,64,1) 0%, rgba(243,64,61,1) 50%, rgba(149,45,160,1) 100%);
+	width:174px;
+	height:54px;
+	position:absolute;
+	left:814px;
+	top:1199px;
+	border-radius: 40px;
+	font-family:Indie Flower;
+	font-size: 26px;
+	color: white;
+}
+.btIg:hover{
+	box-shadow: 1px 3px #888888;
+}
+.ImagenIG{
+	width:400px;
+	height:400px;
+	position:absolute;
+	left:260px;
+	top:50px;
+	background-image:url(../images/imagen_2023_06_21_101854138_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.btTw{
+	background-color:rgba(39.00000147521496, 166.00000530481339, 209.00000274181366, 1);
+	width:174px;
+	height:54px;
+	position:absolute;
+	left:1118px;
+	top:1199px;
+	border-radius: 40px;
+	font-family:Indie Flower;
+	font-size: 26px;
+	color: white;
+}
+.btTw:hover{
+	box-shadow: 1px 3px #888888;
+}
+.ImagenTW{
+	width:350px;
+	height:350px;
+	position:absolute;
+	left:280px;
+	top:80px;
+	background-image:url(../images/imagen_2023_06_21_102138824_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

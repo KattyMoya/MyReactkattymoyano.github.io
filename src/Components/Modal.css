@@ -1,0 +1,32 @@
+.modal{
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgba(0,0,0,0.75);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+.modal.is-open{
+    display: flex;
+}
+.modal-container{
+    position: relative;
+    padding: 1rem;
+    width:900px;
+	height:400px;
+	top:0px;
+    font-family:Indie Flower;
+    text-align:end;
+    font-size: 22px;
+    background-color: white;
+    border-radius: 10px;
+}
+.model-close{
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
